@@ -1,5 +1,5 @@
 # tetris-gui-project
-**Execution: Run tWindows**
+**Execution: Run tWindows.java**
 
 **IDE: ECLIPSE 2018-9 / JDK8 ver**
 
